@@ -1,4 +1,4 @@
-#第五次作业
+#Crossin教室第五次作业
 from random import randint
 print("Here is a game to guess a number,and it's from 1 to 100.")
 username = input('The frist, please Enter your name:')

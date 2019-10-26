@@ -50,6 +50,6 @@ while True:
                 count = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + day
             if month == 12:
                 count = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 30 + day
-        print('今天是', year, '年的第', count, '天')
+        print('那天是', year, '年的第', count, '天')
     else:
         print('你的输入不正确，请输入正确的年/月/日')
